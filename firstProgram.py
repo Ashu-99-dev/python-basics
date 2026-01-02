@@ -19,7 +19,7 @@ string2 = "Helooo"
 string3 = '''heloooo'''
 
 str = "i am studying python from cha code"
-
+print("hello! World")
 # print(str.endswith("code"))
 # print(str.capitalize())
 # print(str)
@@ -31,3 +31,12 @@ str = "i am studying python from cha code"
 
 str2 = "ashu$tosh$$$"
 print(str2.count("$"))
+
+
+
+
+
+
+
+
+
